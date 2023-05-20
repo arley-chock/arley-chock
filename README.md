@@ -1,5 +1,5 @@
 # 🤩 About Me:
-Work in full-stack devlopment, Front-end 💪, ux/ui.
+<div align="center">Work in full-stack devlopment, Front-end 💪, ux/ui.</div>
 
 
 ## 🌐 Socials:
