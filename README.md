@@ -1,4 +1,7 @@
 # 🤩 About Me:
+<div>
+<img src="download20230506142503.png">
+</div>
 <div align="center">Work in full-stack devlopment, Front-end 💪, ux/ui.</div>
 
 
