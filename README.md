@@ -1,4 +1,4 @@
-<div align="center" style="color:#000000; font-family: times; font-size: 1.5em" > Hi guys it's my repository, welcome and... look at the projects </div>
+<div align="center" style="color:#000000; font-family: times; font-size: 1.5em" > Hi guys it's my Profile, welcome and... look at the projects </div>
 
 <div>
 <img src=https://github-readme-stats.vercel.app/api?username=arley-chock&show_icons=true&theme=maroongold>
