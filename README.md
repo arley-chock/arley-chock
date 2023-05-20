@@ -7,7 +7,7 @@
 <H2 style="color:#00000; font-family: Times new roman">To the technologies I have experienced</h2>
 
 
-<div style="display: inline-block;>
+<div style="display: inline-block; column-count: 3">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 
