@@ -54,20 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="56" alt="svelte logo" />
 </div>
 
----
 
-## 📊 GitHub Contributions
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/arley-chock/arley-chock/output/snake.svg" alt="Snake animation" />
-
-###
-
----
 
 ## 📈 GitHub Stats
 
