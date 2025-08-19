@@ -53,7 +53,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="56" alt="oracle logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="56" alt="svelte logo" />
 </div>
+---
+## 📊 GitHub Contributions
+<br clear="both">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arley-chock/arley-chock/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arley-chock/arley-chock/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arley-chock/arley-chock/output/pacman-contribution-graph.svg">
+</picture>
+---
 
 
 ## 📈 GitHub Stats
