@@ -58,7 +58,6 @@
 
 ## 📊 GitHub Contributions
 
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arley-chock/arley-chock/output/pacman-contribution-graph-dark.svg">
