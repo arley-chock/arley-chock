@@ -3,7 +3,6 @@
 
 <br clear="both">
 
-<img align="left" height="100" src="https://cdn.picrew.me/shareImg/org/202508/2141620_JvGoxpnz.png" />
 
 ###
 
